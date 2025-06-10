@@ -83,4 +83,4 @@
 - aiogram  
 - SQLAlchemy  
 - aiohttp  
-- python-dotenv *(если используется `.env`)*
+- python-dotenv 
